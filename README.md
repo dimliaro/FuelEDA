@@ -1,6 +1,6 @@
 # Fuel EDA — Hyundai i20
 
-Exploratory data analysis of personal fuel fill-up records for a Hyundai i20, tracked via the [Fuelio](https://www.fuelio.net/) app from November 2022 onwards.
+Exploratory data analysis of personal fuel fill-up records for a Hyundai i20, tracked via the [Fuelio](https://www.fuelio.net/) app from November 2022 - sometime in 2025... I missed some entries 😅
 
 ## Dataset
 
